@@ -1,6 +1,6 @@
 # 5010-Assignment3
 
-'''
+```
   let x = 0
 function setup() {
   createCanvas(1200,200)
@@ -34,4 +34,5 @@ translate(random(-1, 1), random(-1, 1))
   textSize(40)
   text("Whenever a deadline is approaching.", 10, 50)
 }
-'''
+
+```
